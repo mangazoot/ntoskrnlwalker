@@ -12,7 +12,8 @@ Interactive C++ console tool that uses dbghelp and pulls the PDB symbols from Mi
   - Gadget text (e.g., `pop rcx ; ret`, `jmp rax`) ? scan executable sections for matches.
 - Maps `ntoskrnl.exe` as `SEC_IMAGE` to decode gadget bytes locally
 
-<img url="https://i.ibb.co/3yg7P56z/Screenshot-From-2026-01-15-22-32-29.png"></img>
+<img src="https://i.ibb.co/3yg7P56z/Screenshot-From-2026-01-15-22-32-29.png"></img>
+<img src="https://i.ibb.co/39yRwq3c/Screenshot-From-2026-01-15-22-33-11.png"></img>
 ## Release
 - There are already pre-compiled binaries in x64/ folder
 - 
@@ -36,5 +37,6 @@ msbuild ntoskrnl-walker.sln /p:Configuration=Release /p:Platform=x64 /p:OutDir=b
 ## Notes
 - Adjust the symbol path via `_NT_SYMBOL_PATH` if you don’t want the default cache/server.
 - Gadget scanning is intentionally lightweight; it decodes common short sequences directly from the mapped image and does not invoke any debugger APIs.
+
 
 
