@@ -22,7 +22,7 @@ And on this screenshot you see how its showing the structure for _EPROCESS along
 <img src="https://i.ibb.co/39yRwq3c/Screenshot-From-2026-01-15-22-33-11.png"></img>
 ## Release
 - There are already pre-compiled binaries in x64/ folder
-- 
+  
 ## Requirements
 - Windows 10/11 `C:\Windows\System32\ntoskrnl.exe` present.
 - `dbghelp.dll`/`symsrv.dll` available (the repo root already includes copies used at runtime).
@@ -43,6 +43,7 @@ msbuild ntoskrnl-walker.sln /p:Configuration=Release /p:Platform=x64 /p:OutDir=b
 ## Notes
 - Adjust the symbol path via `_NT_SYMBOL_PATH` if you don’t want the default cache/server.
 - Gadget scanning is intentionally lightweight; it decodes common short sequences directly from the mapped image and does not invoke any debugger APIs.
+
 
 
 
